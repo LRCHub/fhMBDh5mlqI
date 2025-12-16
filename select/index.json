@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "手と手",
+  "base_artist": "10-FEET",
+  "createdAt": "2025-12-16T04:42:45.043925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "手と手",
+      "artist": "CY8ER",
+      "has_synced": true,
+      "path": "select/01_手と手_CY8ER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "手と手 (苺りなはむver.)",
+      "artist": "CY8ER",
+      "has_synced": true,
+      "path": "select/02_手と手_(苺りなはむver.)_CY8ER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "手と手 (ましろver.)",
+      "artist": "CY8ER",
+      "has_synced": true,
+      "path": "select/03_手と手_(ましろver.)_CY8ER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "手と手",
+      "artist": "CY8ER",
+      "has_synced": true,
+      "path": "select/04_手と手_CY8ER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "手と手 (子犬丸ぽちver.)",
+      "artist": "CY8ER",
+      "has_synced": true,
+      "path": "select/05_手と手_(子犬丸ぽちver.)_CY8ER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "手と手",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/06_手と手_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "手と手 - Te to Te",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/07_手と手_-_Te_to_Te_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "手と手",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_01_手と手_10-FEET.txt"
+    }
+  ]
+}
